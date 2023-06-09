@@ -1,5 +1,5 @@
 # mobileProject
-Projeto feito por Luana Revoredo Braz de Souza e Rhauana Flórido Lima
+Projeto feito por Luana Revoredo Braz de Souza, Rhauana Flórido Lima e Victor Silva Dutra de Amorim.
 
 # README
 
